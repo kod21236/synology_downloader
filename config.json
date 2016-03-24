@@ -1,0 +1,11 @@
+{
+    "token": "input your token",
+    "valid_user": [
+        "input user id for permission"
+    ],
+    "torrent_search": [
+        "https://torrentkim1.net/bbs/rss.php?k="
+    ],
+    "syno_id": "input your synology admin id.",
+    "syno_passwd": "input your synology admin passwd."
+}
